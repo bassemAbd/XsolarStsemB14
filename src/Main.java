@@ -5,5 +5,10 @@ public class Main {
         XX.sun=1;
         XX.Planet=2;
 
+
+      
+
+
+
     }
 }
